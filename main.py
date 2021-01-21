@@ -52,7 +52,6 @@ wars = {
         "time": 1
     }
 }
-
 wars_pojo = {
     "0": {
         "cid": 113213,
